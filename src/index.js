@@ -1,2 +1,2 @@
-// Эта функция переворачивает переданную строку
-export default str => str.split('').reverse().join('')
+// This function reverses string
+export default str => str.split('').reverse().join('');
